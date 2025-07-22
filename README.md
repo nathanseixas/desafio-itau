@@ -1,6 +1,6 @@
 # desafio-itau
 
-Este desafio do banco do Itau é de 4 meses atras, resolvi ele para por em pratica meus conhecimentos em Java.
+Este desafio do banco do Itau é de 4 meses atras, resolvi ele para por em pratica meus conhecimentos em Java utilizando o framework Spring-Boot.
 
 Vou deixar qui o README do desafio:
 
